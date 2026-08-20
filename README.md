@@ -58,7 +58,7 @@ pip install PyQt5 pygame
 ```bash
 python main.py
 ```
-> Desempacote os assets.rar
+> Desempacote os assets.rar.
 > Para o alarme tocar corretamente, os arquivos de música referenciados em
 > `alarme.py` (`soundFile1`, `soundFile2`, `soundFile3`) precisam existir no
 > caminho indicado.
