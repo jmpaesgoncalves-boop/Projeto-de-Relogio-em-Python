@@ -62,7 +62,7 @@ python main.py
 > Para o alarme tocar corretamente, os arquivos de música referenciados em
 > `alarme.py` (`soundFile1`, `soundFile2`, `soundFile3`) precisam existir no
 > caminho indicado. Com a pasta assets e todos os arquivos .py baixados e reunidos
-> rode o sistema pelo janela_principal.py
+> rode o sistema pela janela_principal.py
 
 ## Funcionalidades
 
